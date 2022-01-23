@@ -5,3 +5,4 @@ source venv/bin/activate
 ```bash
   pip install -r requirements.txt
 ```
+to install each and every reqirements
